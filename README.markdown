@@ -6,7 +6,7 @@ Expandable Ad units.
 
 Installation
 ------------
-Download `CCP - Resize Expandable Image.jsx` and place it in your Photoshop
+Download [`CCP - Resize Expandable Image.jsx`](https://raw.githubusercontent.com/theadvocate/ccp-resize-expandable-image/master/CCP%20-%20Resize%20Expandable%20Image.jsx) and place it in your Photoshop
 scripts folder:
 
 - OS X: `/Applications/Adobe Photoshop <version>/Presets/Scripts/`
